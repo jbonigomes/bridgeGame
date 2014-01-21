@@ -27,7 +27,7 @@ function createDeck($suits)
 
 function distributeCards($players, $deck)
 {
-
+	test
 }
 
 function createPlayers($players)
